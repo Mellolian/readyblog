@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b82607d9-08c4-4f0c-a235-a59d8949d532" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine/blogengine/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +26,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blogengine" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1TOQYJ3KB5HP0xooAPBlwq0vgjJ" />
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573974563225</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="release2">
+      <created>1573979916680</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573979916680</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +152,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="привязка автора почти готова" />
     <MESSAGE value="закончил с привязкой автора" />
-    <option name="LAST_COMMIT_MESSAGE" value="закончил с привязкой автора" />
+    <MESSAGE value="release2" />
+    <option name="LAST_COMMIT_MESSAGE" value="release2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
